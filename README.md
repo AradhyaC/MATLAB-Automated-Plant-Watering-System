@@ -1,10 +1,11 @@
 # MATLAB | Automated Plant Watering System
-### OBJECTIVE
-The objective of this project was to design and develop an automated plant-watering system using the Grove Beginner Kit For Arduino interfaced through MATLAB. The system was created to operate autonomously by monitoring soil moisture and activating or deactivating a water pump as required.
 
 <p align="center">
   <img height="400" src="images/setup.jpg" alt="The Setup">
 </p>
+
+### OBJECTIVE
+The objective of this project was to design and develop an automated plant-watering system using the Grove Beginner Kit For Arduino interfaced through MATLAB. The system was created to operate autonomously by monitoring soil moisture and activating or deactivating a water pump as required.
 
 <img align="right" height="500" src="images/flow_final.png" alt="MATLAB Program Flowchart">
 
